@@ -1,0 +1,22 @@
+.logo{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.texto{
+    margin-top: 120px;
+}
+.texto h2{
+    margin-bottom: 50px;
+}
+.navbar-nav{
+    flex-direction: row;
+}
+.nav-item{
+    padding: 0 7px;
+}
+.nav-link{
+    font-weight: bold;
+}
+.subscribe{
+    font-weight: bold;
+}
